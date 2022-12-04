@@ -18,5 +18,5 @@ If you want to apply the GBM_SEEP model to your own dataset, please follow the s
 5.	Just run all cells in GBM_SEEP_simplified_application.ipynb! Then download the output files from the folder at left. Note that 0 represents marine-type brGDGTs, 1 represents seep-type brGDGTs, and 2 represents soil-type brGDGTs
 6.	Enjoy!
 
-Reference
+Reference:
 Sluijs A, Frieling J, Inglis G N, et al. Late Paleocene–early Eocene Arctic Ocean sea surface temperatures: reassessing biomarker paleothermometry at Lomonosov Ridge[J]. Climate of the Past, 2020, 16(6): 2381-2400.
